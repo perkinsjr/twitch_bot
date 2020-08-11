@@ -2,6 +2,6 @@
 
 ## Setup
 
-You can set up this buy yourself.
+You can set up this by yourself.
 
 Use the env.example to get going.
